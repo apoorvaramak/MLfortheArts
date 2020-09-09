@@ -43,8 +43,5 @@
 |WHAT DATA DO YOU NEED TO CREATE AN AI TO HELP YOU ADDRESS YOUR ISSUE?    | The AI would need medical as much medical data from people with different illnesses across all different walks of life that have been accurately diagnosed.|  
 |HOW WILL YOU RESPONSIBLY GATHER THIS DATA IN A WAY THAT RESPECTS INDIVIDUALS’ PRIVACY AND CONSENT?   | To collect this data, you would need to reach out to hospitals and patients. The names would not be needed so that could help protect their privacy and as long as they give it consensually, which is knowing what it is going to be used for. I believe that this is using the information in a respectful manner.   |  
 
-
-
-
-
+![Flowchart](https://user-images.githubusercontent.com/70911079/92608234-17abe400-f283-11ea-9f58-af91f4a0bde6.png)
 
