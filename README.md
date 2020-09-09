@@ -29,7 +29,7 @@
 |Social Media  | * The suggested pages like the TikTok for you page and Instagram Explore page </br> * Facial recognition for tagging people in facebook | 
 |Automated Messaging   | * Responses based on the keywords in your search/voice   |  
 
-<span style= "font-size:16px;"> **What do we gain by having AI in our everyday lives?** </span>
+<span style= "font-size: 16px;"> **What do we gain by having AI in our everyday lives?** </span>
 * Having AI in our lives makes life much more efficient because the AI helps you get customer service when no humans are available, finish your words so you don’t have to type the rest, find content that you are interested in quickly, and so much more. AI has a lot of functionality that people use daily that would not be impossible to do without AI, but it’d be much more time consuming and inconvenient. 
 
 <span style= "font-size:16px;"> **What do we lose by having AI in our daily lives?** </span>
