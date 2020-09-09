@@ -19,6 +19,16 @@
 <span style= "font-size = 16px;"> **What are other places where you suspect AI is present?** </span>
 * Spotify suggests new songs for playlists and sometimes it surprises me by how accurate they are to the feel that I want for my playlist. Especially when the artist is not associated with any of the other artists on the playlist.  
 
+|   |   |  
+|   |   | 
+|   |   |   
+|   |   |  
+|   |   |  
+|   |   |  
+|   |   | 
+|   |   |  
+|   |   |  
+
 
 
 
