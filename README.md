@@ -20,8 +20,7 @@
 * Spotify suggests new songs for playlists and sometimes it surprises me by how accurate they are to the feel that I want for my playlist. Especially when the artist is not associated with any of the other artists on the playlist.  
 
 |Device/Digital Service   |* Autocompleting parts of your sentence as part of the email
-* Changing which nbox you are sending from when you send to a certain person (mobile)
-   |  
+* Changing which nbox you are sending from when you send to a certain person (mobile)|  
 |:---:|---| 
 |Email Inbox|   |
 |Check depositing   |   |   
