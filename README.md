@@ -19,15 +19,15 @@
 <span style= "font-size = 16px;"> **What are other places where you suspect AI is present?** </span>
 * Spotify suggests new songs for playlists and sometimes it surprises me by how accurate they are to the feel that I want for my playlist. Especially when the artist is not associated with any of the other artists on the playlist.  
 
-|Device/Digital Service   |   |  
+|Device/Digital Service   | AI functions  |  
 |:---:|---| 
 |Email Inbox| * Autocompleting parts of your sentence as part of the email </br> * Changing which nbox you are sending from when you send to a certain person (mobile)|
-|Check depositing   |   |   
-|Texting/Mobile Keyboards   |   |  
-|Netflix   |   |  
-|Google   |   |  
-|Social Media  |   | 
-|Automated Messaging   |   |  
+|Check depositing   | * Analyzing the check so that it can verify the amount and numbers are correct   |   
+|Texting/Mobile Keyboards   | * Spell checking </br> * Autocompleting your sentence|  
+|Netflix   | * Recommending what else to watch depending on what you have watched  |  
+|Google   | * Giving suggestions for the rest of your search |  
+|Social Media  | * The suggested pages like the TikTok for you page and Instagram Explore page </br> * Facial recognition for tagging people in facebook | 
+|Automated Messaging   | * Responses based on the keywords in your search/voice   |  
 
 
 
