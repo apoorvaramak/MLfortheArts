@@ -13,4 +13,6 @@ angle or wear they were placed. For hand sanitizer, I kept getting sunblock, but
 Finally, i was not able to recognize my pencil. Depending on how it was oriented, the guess changed from syringe to flagstaff to microphone. I thought some of the things that it was not
 able to identify were interesting because some of them are very clear pictures of items that I think are very normal, like keys and earbuds. I figured that there would be tons of pictures of these in the ImageNet for the program to compare to. Also, I was surprised that the glasses were better identified when I was wearing them versus just pointing the webcam at them. I thought that on my face it would think to identify me, not the glasses. 
 
-[Bottle](https://user-images.githubusercontent.com/70911079/93022793-03d0ec80-f5b9-11ea-8c6c-76ce6670034c.jpg)
+![Keys](https://user-images.githubusercontent.com/70911079/93022793-03d0ec80-f5b9-11ea-8c6c-76ce6670034c.jpg)
+
+
