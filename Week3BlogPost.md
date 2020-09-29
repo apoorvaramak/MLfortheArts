@@ -6,6 +6,7 @@ could be added to the biography like who are the people that are identifying the
 And when did they stop. These are all important because they paint a picture of what kind of data is included and how the model was trained. 
 
 <span style= "font-size:16px">**How does understanding the provenance of the model and its data inform your creative process?**</span>
+
 Understanding the origin of the model and it’s data informs my creative process because it helps me understand what kind of things this will be more
 equipped to do versus what it will be less successful with. For example, I know PoseNet was trained using the CoCoSSD data set. Because the CoCoSSD 
 data is of the most identifiable objects and is much smaller than ImageNet, I would not use CoCoSSD to try and identify objects that are more obscure. 
