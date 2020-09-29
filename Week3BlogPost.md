@@ -16,6 +16,7 @@ because everyone has an agenda and knowing their agenda can greatly impact what 
 
 
 <span style= "font-size:16px">**My p5 sketch**</span>
+
 For my p5 sketch, I wanted to see if I could get PoseNet to ask a series of questions and assign points. Creating a point counter proved to 
 be quite difficult because to give a point when right or take away a point when wrong, the sketch can't keep looping, but for the sketch to move 
 forward, it has to continue to loop. So, the point counter just keeps going up when you hold up the correct hand and keeps going down when you 
