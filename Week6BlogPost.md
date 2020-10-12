@@ -27,4 +27,8 @@ This data is accurate and useful for certain tasks, such as finding out what tim
 A model trained on this could be able to predict where the most crashes will be by street and what time they would happen. It would also be able to determine how likely the crash is to be fatal given the time and street that the crash occurred. An alternative method could be just figuring which streets are more likely to have crashes and what times are more likely to have crashes and put those together to figure it out, but this would be much less accurate because it would not take in as many factors at the same time. 
 
 
+<span style= "font-size:16px"> **My p5 Sketch**</span>
 
+I was having problems again with training my model, but I was able to collect the data this time. For some reason, my computer does not allow me to change the .txt file into a .json file even though it was initially created as a json file. I will have to look into that to see why that happens. I was just working on continuing my project from last week, which was a continuation of my project from 2 weeks ago, but with added machine learning. I believe that my data collection and model are working, I just need to get hte model training to work as well. Here are some gifs of me training the model. 
+
+![TrainingGif](https://user-images.githubusercontent.com/70911079/95755159-0e42dc80-0c72-11eb-8da5-9acf3450475e.gif)
