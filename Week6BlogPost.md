@@ -31,4 +31,10 @@ A model trained on this could be able to predict where the most crashes will be 
 
 I was having problems again with training my model, but I was able to collect the data this time. For some reason, my computer does not allow me to change the .txt file into a .json file even though it was initially created as a json file. I will have to look into that to see why that happens. I was just working on continuing my project from last week, which was a continuation of my project from 2 weeks ago, but with added machine learning. I believe that my data collection and model are working, I just need to get hte model training to work as well. Here are some gifs of me training the model. 
 
+I was able to get my gif working, and my problem with the code was because I gave the labels the same name, it created a txt file instead of a json file. I struggled a bit with getting the words to appear in the right place, but in the end I got it everything to be there. The points are working, but they don't add up, it's just you get 1 point if you're holding up the correct hand, -1 if you're holding up the incorrect hand, and 0 if you shrug. 
+
+Here is my p5 [sketch](https://editor.p5js.org/aramakrishnan/sketches/BB-dWmjon)
+
 ![TrainingGif](https://user-images.githubusercontent.com/70911079/95755159-0e42dc80-0c72-11eb-8da5-9acf3450475e.gif)
+
+![questionMLgif](https://user-images.githubusercontent.com/70911079/95940101-9d9fdb00-0dab-11eb-9940-a11baa1310eb.gif)
