@@ -16,6 +16,7 @@ This week I decided to try to make the musical markov chain. I was reading into 
 
 (8,400)
 
+
 ![Screenshot_2020-10-26 p5 js Web Editor Markov Chain](https://user-images.githubusercontent.com/70911079/97172703-c938a300-1765-11eb-8100-94e28bd2adcf.png)
 
 (6, 280)
