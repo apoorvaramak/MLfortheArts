@@ -2,9 +2,11 @@
 
 Rhythm games for Everyone
 
+
 <span style= "font-size:16px">**One sentence description**</span>
 
 My idea is to create a music game in the vein of Guitar Hero that can be played with very limited movement. 
+
 
 <span style= "font-size:16px">**Abstract**</span>
 
@@ -14,6 +16,7 @@ I was watching my friend play a rhythm game recently and it reminded me of how m
 <span style= "font-size:16px">**Inspiration**</span>
 
 I was inspired by the projects that were shown earlier in this class about instruments that could be made with machine learning and my own interest in accessibility. After taking Intro to Assistive Tech, I’ve become a lot more aware of how many things in our world are not created for people with disabilities. So, I’ve been working on creating things that are accessible to everyone for then on because I believe that that is really important when creating a product. I’m also very interested in music. Music is very universal and something that I know that anyone can create, so giving the opportunity to people that may not have had it before is something I’m passionate about. 
+
 
 <span style= "font-size:16px">**Visual References**</span>
 
@@ -25,6 +28,7 @@ I was inspired by the projects that were shown earlier in this class about instr
 <span style= "font-size:16px">**Audience**</span>
 
 I’m making this project for everyone. While it is being made with people with disabilities in mind, this is a game that anyone can have fun playing, and would be a fun challenge for people that have more mobility that need to work on keeping themselves still while also moving their head. I expect people that can only move their heads will be able to interact with this piece easier, but it will be something that can be picked up easily. I will try to make where the pointer is clear and something that makes sense in people’s minds so that interaction is a little bit more intuitive because I think that this is something that will require very little interaction to understand. I think this will be a new experience for people without disabilities to try and learn how to move their head properly. Also, this will just be a fun game for everyone, no matter what ability level they are at. 
+
 
 <span style= "font-size:16px">**Challenges**</span>
 
