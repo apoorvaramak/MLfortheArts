@@ -1,14 +1,18 @@
 <span style= "font-size:16px">**Title**</span>
+
 Rhythm games for Everyone
 
 <span style= "font-size:16px">**One sentence description**</span>
+
 My idea is to create a music game in the vein of Guitar Hero that can be played with very limited movement. 
 
 <span style= "font-size:16px">**Abstract**</span>
+
 I was watching my friend play a rhythm game recently and it reminded me of how much I enjoyed playing Rock Band with my siblings when I was a kid. However, like many games, these are not really playable to people with disabilities that inhibit their movements. So, I decided that using PoseNet, I would create a project that maps the nose as the mouse, which allows the person to “click” on each note with just some head movement. There will be rectangles that float up the screen and the person will have to turn their head to have the nose/pointer on top of the rectangle before it disappears at the top of the screen. If they align the pointer and the rectangle, it will play a note. Because this is supposed to represent a song, this will be a series of rectangles that float up and the person needs to make sure to hit them in the right order. They can do this by just turning their head side to side, which will move their nose, which moves the pointer. 
 
 
 <span style= "font-size:16px">**Inspiration**</span>
+
 I was inspired by the projects that were shown earlier in this class about instruments that could be made with machine learning and my own interest in accessibility. After taking Intro to Assistive Tech, I’ve become a lot more aware of how many things in our world are not created for people with disabilities. So, I’ve been working on creating things that are accessible to everyone for then on because I believe that that is really important when creating a product. I’m also very interested in music. Music is very universal and something that I know that anyone can create, so giving the opportunity to people that may not have had it before is something I’m passionate about. 
 
 <span style= "font-size:16px">**Visual References**</span>
