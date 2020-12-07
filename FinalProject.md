@@ -35,7 +35,7 @@ This is for everyone really but it was made with people with disabilities in min
 
 <span style= "font-size:16px">**User Testing**</span>
 
-What was the result of user testing? How did you apply any feedback?: User testing was helpful because it allowed me to see what other people thought about the idea and what they thought I was trying to accomplish with each part. I got some feedback about the game not being totally clear so I tried to make it more obvious what has to be done by adding more time in the beginning that allows the user to move their head around and see the vector move before the first note appears. 
+User testing was helpful because it allowed me to see what other people thought about the idea and what they thought I was trying to accomplish with each part. I got some feedback about the game not being totally clear so I tried to make it more obvious what has to be done by adding more time in the beginning that allows the user to move their head around and see the vector move before the first note appears. 
 
 <span style= "font-size:16px">**Source Code**</span>
 
