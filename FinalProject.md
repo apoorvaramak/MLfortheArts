@@ -38,4 +38,5 @@ In the p5 [link](https://editor.p5js.org/aramakrishnan/sketches/tjsVl7-cn)
 <span style= "font-size:16px">**Next Steps**</span>
 If I had more time, I would definitely fix the audio issues that come up at the end. Also, I would add more songs/figure out how to play the songs without having to push each individual note into the array, as it means I would have to create hundreds of notes and push each onto the array individually if I chose a longer song. There are so many things that I could fix, like making the interface more visually interesting, but there are also so many ways in which I could move the project forward and expand it.
 
+Here's a Video of me testing it: 
 [![Youtube Video](https://img.youtube.com/vi/7s7-Qhk1E5U/1.jpg)](https://www.youtube.com/watch?v=7s7-Qhk1E5U&feature=youtu.be "Rock band - Mary Had a Little Lamb")
